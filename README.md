@@ -20,5 +20,9 @@ SASS based version of Magento 2 Blank theme, which aims to be as close to the co
 - If you know how to fix an issue, which is reproducible in Magento core, submit PR to the core product first, then here, with a link to PR in Magento 2 repository
 - If issue is related only to the SASS port, feel free to submit issue or PR
 
+## Email styles support
+* for Magento < 2.3.0 requires to run something like email-fix task added to Frontools in [ver 1.6.0](https://github.com/SnowdogApps/magento2-frontools/tree/1.6.0)
+  [Related issue](https://github.com/MyIntervals/emogrifier/issues/296)
+
 ## Questions
 If you want to know more about this project, let's join [Magento Community Engineering Slack](https://tinyurl.com/engcom-slack) and ask questions on #magefront channel.
